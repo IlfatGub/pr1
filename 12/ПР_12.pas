@@ -1,4 +1,4 @@
-﻿var i,j,x,y,g: integer;
+﻿var i,j,x: integer;
 p,m,s:real;
 begin
   Write('x: ');

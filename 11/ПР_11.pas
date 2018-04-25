@@ -1,4 +1,4 @@
-﻿var i,j,n,m,p,s,x: integer;
+﻿var j,n,m,p,s,x: integer;
 begin
   Write('x: ');
   readln(x);
